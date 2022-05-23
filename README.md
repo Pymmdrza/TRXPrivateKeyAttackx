@@ -6,12 +6,19 @@ TRON (TRX) ADDRESS and Private Key Wallet Generated and Cracked with Check From 
 First Install Package's
 
 (For Installtion Needed Administrator Access On Windows)
+
 ```
 python -m pip install --upgrade pip
 pip install tronapi
 pip install rich
 pip install tronpy
 ```
+
+Can Use For Easy Installtion On Windows : [0000INSTALL](https://github.com/Pymmdrza/TRXPrivateKeyAttackx/blob/mainx/Multi_CHECK/0000INSTALL.bat)
+
+---
+
+After Installtion Can Use This File's For Batch Finder and Attacking : [Multi_CHECK](https://github.com/Pymmdrza/TRXPrivateKeyAttackx/tree/mainx/Multi_CHECK)
 
 
 ---
