@@ -3,6 +3,15 @@
 # TRXPrivateKeyAttackx
 TRON (TRX) ADDRESS and Private Key Wallet Generated and Cracked with Check From List Data with TRONAPI
 
+First Install Package's
+
+(For Installtion Needed Administrator Access On Windows)
+```
+python -m pip install --upgrade pip
+pip install tronapi
+pip install rich
+pip install tronpy
+```
 
 
 ---
