@@ -12,13 +12,11 @@ console = Console()
 filename = 'trx.txt'
 with open(filename) as f:
     add = f.read().split()
-
 add = set(add)
 
-
+z = 0
+w = 0
 while True:
-    z = 0
-    w = 0
     xHash = mHash()
     private_key = str(xHash)
     
